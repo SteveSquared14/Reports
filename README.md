@@ -3,7 +3,7 @@
 ## Welcome
 Welcome to my own personal repository of reports and writeups for labs, boxes, or challenges (or whatever other funky name they go by) that I have completed. I primarily work on either Hack the Box, Try Hack Me, or Blue Team Labs Online in my free time to either test my current knowledge, or to consolidate a new skill/technique I have studied. I hope you enjoy reading!
 
-## Spolier Alert
+## Spoiler Alert
 I hope it goes without saying but this repository is purely an educational resource for myself, and I refer to it from time to time to brush up on knowledge or tap into a technique I have learned and need to apply to a new lab. It is **absolutely not** intended to help other rapidly complete the same challenges on these platforms. I strongly encourage anyone who views for that reason to attempt the necessary challenge on their own first - if you wish to consult these notes as a helping hand that's awesome but using them to simply complete the challenges defeats the point I think.
 
 ## Structure
