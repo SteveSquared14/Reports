@@ -8,9 +8,9 @@ I hope it goes without saying but this repository is purely an educational resou
 
 ## Key
 Incase my abbreviations above are not clear, see below :)
-- BTLO  Blue Team Labs Online
-- Hack the Box
-- Try Hack Me
+- BTLO is Blue Team Labs Online
+- HTB is Hack the Box
+- THM is Try Hack Me
 
 ## Structure
 For each challenge/lab I complete my aim is to produce and upload each of the following:
