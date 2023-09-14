@@ -6,6 +6,12 @@ Welcome to my own personal repository of reports and writeups for labs, boxes, o
 ## Spoiler Alert
 I hope it goes without saying but this repository is purely an educational resource for myself, and I refer to it from time to time to brush up on knowledge or tap into a technique I have learned and need to apply to a new lab. It is **absolutely not** intended to help other rapidly complete the same challenges on these platforms. I strongly encourage anyone who views for that reason to attempt the necessary challenge on their own first - if you wish to consult these notes as a helping hand that's awesome but using them to simply complete the challenges defeats the point I think.
 
+# Key
+Incase my abbreviations above are not clear, see below :)
+- BTLO  Blue Team Labs Online
+- Hack the Box
+- Try Hack Me
+
 ## Structure
 For each challenge/lab I complete my aim is to produce and upload each of the following:
 
